@@ -1,2 +1,2 @@
-# optimization-control.github.io
-Mathematical Optimization and Optimal Control Research Group.
+# woccom.github.io
+Workshop and Conference on Computational and Mathematical Methods.
